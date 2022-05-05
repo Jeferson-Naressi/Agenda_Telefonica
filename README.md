@@ -1,2 +1,2 @@
 # Agenda_Telefonica
- Agenda telefonica com Python e SQL
+ Agenda telefonica com Python e SQLite
