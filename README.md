@@ -11,4 +11,7 @@ Esse Projeto tem como objetivo mostrar todo back-end de uma agenda telefonica. F
 Simula uma agenda telefonica, .
 
 # Ambiente.
-Instalando o Pycharm. Comentarios sobre o projeto. Esse projeto eu conseguir me desenvolver bastante, usando bastante lógica de programação, funções, conecção com banco de dados.
+Instalando o Pycharm. 
+
+#Comentarios sobre o projeto. 
+Esse projeto eu conseguir me desenvolver bastante, usando bastante lógica de programação, funções, conecção com banco de dados.
