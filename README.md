@@ -4,7 +4,7 @@
 # Sobre o projeto
 É um programa em Python e SQLite back-end com a finalidade de simular um sistema de agenda telefonica.
 
-# Projeto Maquina de bebidas
+# Projeto Agenda Telefonica
 Esse Projeto tem como objetivo mostrar todo back-end de uma agenda telefonica. Fiz um pequeno desenvolvimento simples em console usando a linguagem de programação Python e SQLite.
 
 # Como funciona o Projeto
