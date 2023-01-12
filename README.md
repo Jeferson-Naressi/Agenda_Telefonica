@@ -31,12 +31,16 @@ Para adicionar contatos na agenda segue a alternativa 2:
 
 Caso qualquer atualização temos a opção 3:
 ![image](https://user-images.githubusercontent.com/93160555/212203319-8c3c8801-5a05-4bd4-a0e3-909826cd779e.png)
+
 Solicitando o Id da pessoa, caso não saiba retornaremos ao menu inicial para consultar em sua lista o ID de cada usuário que é dado automaticamente sem alteração.
 ![image](https://user-images.githubusercontent.com/93160555/212203547-d8ff36e1-a1ad-4009-8db1-1c8465ab19d3.png)
+
 Ja com o Id em mãos vamos a alteração.
 ![image](https://user-images.githubusercontent.com/93160555/212203670-8f6a114e-3b69-465e-a04c-7ecbd9866a03.png)
+
 e por fim a 4 opção de deletar contato, também será necessário informa o id e em seguida.
-![image](https://user-images.githubusercontent.com/93160555/212203938-11bdfb4b-3dc7-4b9a-9d8f-49d9035a13c5.png).
+![image](https://user-images.githubusercontent.com/93160555/212203938-11bdfb4b-3dc7-4b9a-9d8f-49d9035a13c5.png)
+
 Assim verificando nossa lista de contato.
 ![image](https://user-images.githubusercontent.com/93160555/212204048-f626eb33-ff48-473d-addc-c34fa5e11dea.png)
 
