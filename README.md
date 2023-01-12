@@ -13,10 +13,11 @@ Projeto de back end de uma agenda telefonica.
 # Ambiente.
 Instalando o Pycharm. 
 
-#Comentarios sobre o projeto. 
+# Comentarios sobre o projeto. 
 Esse projeto eu conseguir me desenvolver bastante, usando bastante lógica de programação, funções, conecção com banco de dados.
 
-🔥 Executando o Projeto Localmente:
+ 
+# 🔥Executando o Projeto Localmente:
 Para executar o projeto, basta você baixa a os arquivos.
 ![image](https://user-images.githubusercontent.com/93160555/212202445-70d4f712-3c8e-40c0-ae49-c178cdc610c5.png)
 
